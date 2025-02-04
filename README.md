@@ -1,7 +1,7 @@
 
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0)]
 <h1 align="center">Hi 👋, I'm Bibek Bhowmick</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A passionate full-stack web developer</h3>
 
 <img align="center" width="1200" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b9524kzm8uc8sjcvgz9vizd83def1x8lc3ggmeg99dia&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="bibekbowmick2-2" />
 
