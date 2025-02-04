@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Bibek Bhowmick</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
-<img align="center" width="1200" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b9524kzm8uc8sjcvgz9vizd83def1x8lc3ggmeg99dia&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="bibekbowmick2-2" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekbowmick2-2&label=Profile%20views&color=0e75b6&style=flat" alt="bibekbowmick2-2" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibekbowmick2-2" alt="bibekbowmick2-2" /></a> </p>
