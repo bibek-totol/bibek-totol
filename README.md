@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **bibektotol@gmail.com**
 
+- For emergency contact **+8801776569120**
+
 - ⚡ Fun fact **Be patient**
 
 <h3 align="left">Connect with me:</h3>
