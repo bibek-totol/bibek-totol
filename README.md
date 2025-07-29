@@ -53,8 +53,8 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bibek-totol&show_icons=true&locale=en&theme=yeblu" alt="bibek-totol" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bibek-totol&theme=ambient-gradient&card_width=390&card_height=185&sideLabels=678EFF&currStreakLabel=3080EB&background=16%2C0A1E57%2C0F0D27&stroke=4632EB&ring=167FEB&fire=EB610F&border=EBEBEB)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=bibek-totol&theme=ambient-gradient&locale=bn&card_width=390&card_height=185&sideLabels=678EFF&currStreakLabel=3080EB&background=16%2C0F0D27%2C0A1E57&stroke=4632EB&ring=167FEB&fire=EB610F&border=EBEBEB&currStreakNum=EBD439)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?username=bibek-totol&theme=ambient-gradient&card_width=390&card_height=185&sideLabels=678EFF&currStreakLabel=3080EB&background=16%2C0A1E57%2C0F0D27&stroke=4632EB&ring=167FEB&fire=EB610F&border=EBEBEB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?username=bibek-totol&theme=ambient-gradient&locale=bn&card_width=390&card_height=185&sideLabels=678EFF&currStreakLabel=3080EB&background=16%2C0F0D27%2C0A1E57&stroke=4632EB&ring=167FEB&fire=EB610F&border=EBEBEB&currStreakNum=EBD439)](https://git.io/streak-stats)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">📝 Statistics 📝</h3>
 <div align="center">
 <a href="https://github.com/bibek-totol">
