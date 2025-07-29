@@ -39,9 +39,8 @@
 <h2 align="center">⚡Activity Graph⚡</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bibek-totol&theme=react-dark&area=true"/>
 
-[![Bibek's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?bibek-totol=YOUR_WAKATIME_USERNAME&show_icons=true&locale=en&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Bibek's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bibek-totol&show_icons=true&locale=en&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -51,4 +50,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibek-totol&show_icons=true&locale=en" alt="bibek-totol" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibek-totol&" alt="bibek-totol" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=bibek-totol&" alt="bibek-totol" /></p>
