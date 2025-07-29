@@ -39,7 +39,8 @@
 <h2 align="center">⚡Activity Graph⚡</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bibek-totol&theme=react-dark&area=true"/>
 
-[![Bibek's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bibek-totol&show_icons=true&locale=en&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Bibek WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bibek-totol&show_icons=true&locale=en&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
