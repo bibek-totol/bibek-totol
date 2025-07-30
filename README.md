@@ -8,14 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibek-totol&label=Profile%20views&color=0e75b6&style=flat" alt="bibek-totol" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bibek-totol&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibek-totol&theme=radical&&include_all_commits=true&count_private=true" /></a> </p>
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [IEMS: Collaborative Study Platform](https://bibek-iems-portal.netlify.app/)
-
-- 🌱 I’m currently learning **React and Nextjs**
 
 - 👯 I’m looking to collaborate on [Tech-Tales: A Blog Application](https://tech-tales2025.netlify.app/)
 
