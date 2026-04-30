@@ -30,8 +30,6 @@ const bibek = {
   location: "Bangladesh 🇧🇩",
   email: "bibektotol@gmail.com",
   passions: ["Clean Code", "Open Source", "UI/UX", "Problem Solving"],
-  currentProject: "IEMS – Collaborative Study Platform",
-  collaborating: "Tech-Tales – A Blog Application",
   expertise: ["React.js", "Next.js", "TypeScript", "Node.js", "MongoDB", "PostgreSQL"],
   devOps: ["Docker", "Kubernetes", "AWS", "CI/CD", "Prometheus", "Grafana"],
   funFact: "Be patient 🧘",
@@ -42,10 +40,7 @@ const bibek = {
 
 ## 🚀 Current Focus
 
-| 🔭 Working On | [IEMS: Collaborative Study Platform](https://bibek-iems-portal.netlify.app/) |
-|---|---|
-| 👯 Open to Collaborate | [Tech-Tales: A Blog Application](https://tech-tales2025.netlify.app/) |
-| 💬 Ask Me About | **React.js & Next.js** |
+
 | 📫 Reach Me At | bibektotol@gmail.com |
 
 ---
