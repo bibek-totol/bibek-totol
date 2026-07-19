@@ -1,21 +1,33 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bibek%20Bhowmick&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=60&descSize=20&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Bibek%20Bhowmick&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&fontFamily=Poppins,sans-serif"/>
+
+<!-- Role Badge -->
+<img src="https://img.shields.io/badge/Full%20Stack%20Engineer-7c3aed?style=for-the-badge&logoColor=white&labelColor=1e1b4b" alt="Full Stack Engineer"/>
+<br/><br/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=400&pause=300&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+full-stack+experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Docker+%7C+Kubernetes+%7C+AWS+%7C+CI%2FCD;Open+to+collaborate+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=400&pause=300&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=Building+scalable+full-stack+systems+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Docker+%7C+Kubernetes+%7C+AWS+%7C+CI%2FCD;Open+Source+Contributor+%E2%9C%A8;Open+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
-<br/>
+<!-- Divider Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-5353767cd7b3.gif" width="600" height="20"/>
 
-<!-- Profile Views + Followers -->
+<!-- Profile Views + Followers + Status -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=bibek-totol&label=Profile+Views&color=7c3aed&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=bibek-totol&label=Profile%20Views&color=7c3aed&style=flat-square" alt="profile views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/bibek-totol?label=Followers&style=flat-square&color=7c3aed" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/bibek-totol&label=Followers&style=flat-square&color=7c3aed" alt="followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=flat-square" alt="status"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Bangladesh-blue?style=flat-square" alt="location"/>
 </p>
+
+<!-- Bottom Divider Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-5353767cd7b3.gif" width="600" height="20"/>
 
 </div>
 
@@ -26,20 +38,31 @@
 ```ts
 const bibek = {
   name: "Bibek Bhowmick",
-  role: "Full Stack Web Developer",
-  location: "Bangladesh 🇧🇩",
+  role: "Full Stack Engineer",
+  location: "Bangladesh",
   email: "bibektotol@gmail.com",
   passions: ["Clean Code", "Open Source", "UI/UX", "Problem Solving"],
-  expertise: ["React.js", "Next.js", "TypeScript", "Node.js", "MongoDB", "PostgreSQL"],
-  devOps: ["Docker", "Kubernetes", "AWS", "CI/CD", "Prometheus", "Grafana"],
-  funFact: "Be patient 🧘",
+  expertise: [
+    "React.js", "Next.js", "TypeScript", "Node.js",
+    "MongoDB", "PostgreSQL",
+  ],
+  devOps: [
+    "Docker", "Kubernetes", "AWS",
+    "CI/CD", "Prometheus", "Grafana",
+  ],
+  currentFocus: "Building scalable full-stack applications with modern tooling.",
+  funFact: "Be patient - good things take time, and so does great software.",
 };
 ```
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I'm Working On
 
+- 🔭 Currently building production-grade full-stack applications with **Next.js**, **Node.js**, and **PostgreSQL**
+- 🌱 Exploring advanced **caching strategies** and **message queue** architectures for high-throughput systems
+- 🤝 Actively contributing to **open-source projects** — see [below](#-open-source-contributions)
+- 💡 Interested in distributed systems, real-time architectures, and developer tooling
 
 | 📫 Reach Me At | bibektotol@gmail.com |
 
@@ -48,6 +71,7 @@ const bibek = {
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -59,17 +83,34 @@ const bibek = {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🔧 Backend & Database
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+### ⚡ Caching & Message Queues
+
+![Redis](https://img.shields.io/badge/Redis_Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-D83B01?style=for-the-badge&logo=redis&logoColor=white)
+
+<details>
+<summary>📖 How I use Caching & Queues</summary>
+
+- **Redis Caching** — Session management, API response caching, rate limiting, and real-time pub/sub for live features
+- **RabbitMQ** — Event-driven communication between microservices, task distribution, and asynchronous processing pipelines
+- **BullMQ** — Robust job scheduling, delayed/retrying tasks, and priority-based background processing powered by Redis
+
+</details>
+
 ### ☁️ DevOps, Cloud & Infrastructure
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -78,6 +119,7 @@ const bibek = {
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 🧠 Languages & Tools
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -89,6 +131,28 @@ const bibek = {
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+## 🌍 Open Source Contributions
+
+I actively contribute to open-source projects and believe in the power of community-driven development. Here are some of the projects I'm proud to be part of:
+
+### 🧩 [Olava UI](https://olovaui.olova.dev/) — React UI Library
+
+> A modern, accessible, and highly customizable React component library designed for building beautiful user interfaces with ease.
+
+- **Role:** Open Source Contributor
+- **Tech Stack:** React, TypeScript, Storybook
+- **Contributions:** Component development, bug fixes, documentation improvements, and accessibility enhancements
+- **What I worked on:** Building and refining reusable UI components, improving type safety, and helping maintain code quality across the library
+
+<details>
+<summary>🔍 Why I contribute to Olava UI</summary>
+
+Olava UI aligns with my passion for clean, accessible, and well-architected component design. Contributing to a UI library has sharpened my skills in building reusable, composable React components with proper TypeScript typing, accessibility standards (ARIA), and comprehensive documentation. It's deeply rewarding to ship code that thousands of developers can rely on in their own projects.
+
+</details>
 
 ---
 
@@ -110,7 +174,7 @@ const bibek = {
 
 ## 📈 Contribution Graph
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bibek-totol&theme=tokyo-night&area=true&hide_border=true&border_radius=12"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bibek-totol&theme=toko-night&area=true&hide_border=true&border_radius=12"/>
 
 ---
 
@@ -151,6 +215,8 @@ const bibek = {
 <div align="center">
 
 *"The best code is the code that doesn't need to be explained."*
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
