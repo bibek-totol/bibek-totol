@@ -138,7 +138,7 @@ const bibek = {
 
 I actively contribute to open-source projects and believe in the power of community-driven development. Here are some of the projects I'm proud to be part of:
 
-### 🧩 [Olava UI](https://olovaui.olova.dev/) — React UI Library
+### 🧩 [Olova UI](https://olovaui.olova.dev/) — React UI Library
 
 > A modern, accessible, and highly customizable React component library designed for building beautiful user interfaces with ease.
 
@@ -148,9 +148,9 @@ I actively contribute to open-source projects and believe in the power of commun
 - **What I worked on:** Building and refining reusable UI components, improving type safety, and helping maintain code quality across the library
 
 <details>
-<summary>🔍 Why I contribute to Olava UI</summary>
+<summary>🔍 Why I contribute to Olova UI</summary>
 
-Olava UI aligns with my passion for clean, accessible, and well-architected component design. Contributing to a UI library has sharpened my skills in building reusable, composable React components with proper TypeScript typing, accessibility standards (ARIA), and comprehensive documentation. It's deeply rewarding to ship code that thousands of developers can rely on in their own projects.
+Olova UI aligns with my passion for clean, accessible, and well-architected component design. Contributing to a UI library has sharpened my skills in building reusable, composable React components with proper TypeScript typing, accessibility standards (ARIA), and comprehensive documentation. It's deeply rewarding to ship code that thousands of developers can rely on in their own projects.
 
 </details>
 
